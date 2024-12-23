@@ -17,7 +17,11 @@
   - Technology Used: React, NodeJS, ExpressJS, Axios, MongoDB, CSS, Vercel
 - Bannify
 
-
+## Skills:
+- **Languages**: Java, Python, JavaScript, MySQL, PostgreSQL, MongoDB, Cassandra
+- **Tools/Frameworks**: React, Axios, ExpressJS, NodeJS, Git, RESTFul APIs, JDBC, jQuery, Spring Boott, JUnit, JMeter, AWS, Tomcat, Maven
+- **Developer Tools**: Github, VS Code, IntelliJ IDEA, Eclipse
+  
 ## Contact me
 - Email: Victorchhun55@gmail.com
 - LinkedIn: [Victor Chhun](https://www.linkedin.com/in/victor-chhun123/)
