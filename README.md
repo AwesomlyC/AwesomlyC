@@ -1,5 +1,26 @@
-## Hi there 👋
+## Hello I'm Victor, CS graduate focused on full-stack development 👋
 
+
+## Personal Projects
+-  [Simple To-Do Application](https://github.com/AwesomlyC/To_Do_Application)
+-  [WhatsLN (Manga/Light Novel Application)](https://github.com/AwesomlyC/WhatsLN)
+
+## School Projects
+- [Ranked Search Engine](https://github.com/AwesomlyC/Ranked-Search-Engine)
+- [Petr Run](https://github.com/munizaa/HACK-AT-UCI-2023)
+- [DieDiabetes](https://github.com/AwesomlyC/IrvineHacks2024)
+- Fabflix
+
+## Works-In-Progress
+- Job Tech Stack
+  - Application  to parse job descriptions to determine relevant skills based on user input. Additionally, it provides analytics to determine average jobs applied and how common certain keywords are.
+  - Technology Used: React, NodeJS, ExpressJS, Axios, MongoDB, CSS, Vercel
+- Bannify
+
+
+## Contact me
+- Email: Victorchhun55@gmail.com
+- LinkedIn: [Victor Chhun](https://www.linkedin.com/in/victor-chhun123/)
 <!--
 **AwesomlyC/AwesomlyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
