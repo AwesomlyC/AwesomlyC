@@ -12,9 +12,10 @@
 - Fabflix
 
 ## Works-In-Progress
-- Job Tech Stack
+- [Job Tech Stack](https://github.com/AwesomlyC/JobTechStack)
   - Application  to parse job descriptions to determine relevant skills based on user input. Additionally, it provides analytics to determine average jobs applied and how common certain keywords are.
   - Technology Used: React, NodeJS, ExpressJS, Axios, MongoDB, CSS, Vercel
+  - [Vercel WebPage](https://job-tech-stack-frontend.vercel.app) -- Currently only show 1 user's information
 - Bannify
 
 ## Skills:
