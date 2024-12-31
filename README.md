@@ -20,7 +20,7 @@
 
 ## Skills:
 - **Languages**: Java, Python, JavaScript, MySQL, PostgreSQL, MongoDB, Cassandra
-- **Tools/Frameworks**: React, Axios, ExpressJS, NodeJS, Git, RESTFul APIs, JDBC, jQuery, Spring Boott, JUnit, JMeter, AWS, Tomcat, Maven
+- **Tools/Frameworks**: React, Axios, ExpressJS, NodeJS, Git, RESTFul APIs, JDBC, jQuery, Spring Boot, JUnit, JMeter, AWS, Tomcat, Maven
 - **Developer Tools**: Github, VS Code, IntelliJ IDEA, Eclipse
   
 ## Contact me
