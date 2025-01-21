@@ -16,6 +16,7 @@
 - Fabflix
 
 ## Works-In-Progress
+- Job Tech Stack
 - Bannify (SaaS)
   - Use AI to generate user-inputted Banners for multiple platforms such as X, FaceBook, Discord, etc.
 
