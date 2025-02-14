@@ -19,6 +19,7 @@
 - Job Tech Stack
 - Bannify (SaaS)
   - Use AI to generate user-inputted Banners for multiple platforms such as X, FaceBook, Discord, etc.
+- [Portfolio](https://victorchhun.netlify.app)
 
 ## Skills:
 - **Languages**: Java, Python, JavaScript, MySQL, PostgreSQL, MongoDB, Cassandra
@@ -28,6 +29,7 @@
 ## Contact me
 - Email: Victorchhun55@gmail.com
 - LinkedIn: [Victor Chhun](https://www.linkedin.com/in/victor-chhun123/)
+- Portfolio: [Website](https://victorchhun.netlify.app)
 <!--
 **AwesomlyC/AwesomlyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
