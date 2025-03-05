@@ -22,9 +22,13 @@
 - [Portfolio](https://victorchhun.netlify.app)
 
 ## Skills:
-- **Languages**: Java, Python, JavaScript, MySQL, PostgreSQL, MongoDB, Cassandra
-- **Tools/Frameworks**: React, Axios, ExpressJS, NodeJS, Git, RESTFul APIs, JDBC, jQuery, Spring Boot, JUnit, JMeter, AWS, Tomcat, Maven
-- **Developer Tools**: Github, VS Code, IntelliJ IDEA, Eclipse
+- **Languages**: [![My Skills](https://skillicons.dev/icons?i=java,py,js,mysql,postgres,mongodb,cassandra)](https://skillicons.dev)
+<!-- Java, Python, JavaScript, MySQL, PostgreSQL, MongoDB, Cassandra -->
+- **Tools/Frameworks**: [![My Skills](https://skillicons.dev/icons?i=react,nodejs,jquery,git,spring,aws,maven)](https://skillicons.dev)
+<!-- React, Axios, ExpressJS, NodeJS, Git, RESTFul APIs, JDBC, jQuery, Spring Boot, JUnit, JMeter, AWS, Tomcat, Maven -->
+- **Developer Tools**: [![My Skills](https://skillicons.dev/icons?i=github,vscode,eclipse,idea)](https://skillicons.dev)
+<!-- Github, VS Code, IntelliJ IDEA, Eclipse -->
+- **Others**: ExpressJS, RESTful APIs, JDBC, JUnit, Tomcat
   
 ## Contact me
 - Email: Victorchhun55@gmail.com
